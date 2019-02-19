@@ -1,6 +1,9 @@
 # FindATM_Bot
 A Telegram bot that allows you to locate ATMs around you
 
+# STATUS:
+Paused for a while
+
 ## About FindATM_Bot
 A general process of this bot is described in the following flow (wireframing):
 
